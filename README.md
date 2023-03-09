@@ -1,6 +1,6 @@
 # Scrolling-Game-Python
 
-Link to Preview runnung game: https://replit.com/@HamzaFareed/Scrolling-Game-GitHub#main.py
+Link to Preview running game: https://replit.com/@HamzaFareed/Scrolling-Game-GitHub#main.py
 
 Description:
 
