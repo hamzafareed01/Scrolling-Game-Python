@@ -10,4 +10,4 @@ As the level increases, the speed of the falling objects and players speed incre
 
 A harm and a benefit character move across the screen from top to bottom, and upon collision with the player will either reduce game lives or increase score.
 
-This project includes combination of blocks, conditional statements and loops.
+This project includes a combination of blocks, conditional statements, and loops.
