@@ -12,6 +12,7 @@
 ###############################################################
 
 #Import modules
+#These are the required file packages
 import turtle
 import random
 
